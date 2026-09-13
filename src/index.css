@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, Cambria, serif;
+  --font-cinzel: "Cinzel", "Playfair Display", serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --color-gold-50: #fdfbf4;
+  --color-gold-100: #faf3e0;
+  --color-gold-200: #f4e4be;
+  --color-gold-300: #ebd193;
+  --color-gold-400: #dfb864;
+  --color-gold-500: #d4a037;
+  --color-gold-600: #b88127;
+  --color-gold-700: #936021;
+  --color-gold-800: #784d20;
+  --color-gold-900: #65411f;
+}
+
+body {
+  font-family: var(--font-sans);
+}

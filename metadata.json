@@ -1,0 +1,7 @@
+{
+  "name": "CJA Bijouterie Cameroun",
+  "description": "Boutique en ligne et gestion de vente de bijoux raffinés au Cameroun avec paiement mobile intégré MTN Mobile Money & Orange Money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
